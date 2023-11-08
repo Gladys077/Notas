@@ -1,4 +1,4 @@
-# App Notas
+ # App Notas
 
 Esta app te permite crear **notitas**, editarlas y guardarlas en un tablero que posee tres columnas que representan en que estado se encuentra la tarea o idea.
 
@@ -88,4 +88,5 @@ Contenido de la nota reducida:
 
 🔷 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔷
 </div>
+
 
