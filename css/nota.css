@@ -44,6 +44,7 @@ h2 input {
     background: transparent;
     border: 1px solid rgba(204, 204, 200, 0.7);
     font-family: 'Kalam', cursive;
+    hyphens: auto;
 }
 .nota textarea:focus,h2 input:focus{
     outline:none;
