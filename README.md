@@ -82,6 +82,8 @@ Contenido de la nota reducida:
 <br>
 <div align="center">
 
+Link de la App: https://appnotas1.netlify.app/
+
 🔷 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔸 🔷 
 ##### Autores: Lionel Staricoff & Gladys Romero
 &copy; Copyright
