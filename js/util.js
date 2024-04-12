@@ -182,7 +182,7 @@ const util = {
               }
 
             } catch (error) {
-              util.promptBase('archivo no valido o vacio ');
+              util.promptBase('Archivo no válido o vacío ');
             }
           }
 
